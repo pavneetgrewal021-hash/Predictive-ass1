@@ -64,7 +64,7 @@ Topsis-Pavneet -102317070
 ✔ Installation
 bash
 Copy code
-pip install Topsis-Tanishak-102303398
+pip install Topsis-Pavneet-102317070
 ✔ Command-Line Usage (after installation)
 bash
 Copy code
