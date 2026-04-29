@@ -19,7 +19,7 @@ DS_Assignment1/
 ├── Part1/
 │ └── TOPSIS command-line implementation
 │
-├── Topsis-Tanishak-102303398/
+├── Topsis-Pavneet -102317070/
 │ └── Python package uploaded to PyPI
 │
 ├── Topsis_Web/
@@ -57,7 +57,7 @@ The TOPSIS implementation was converted into a reusable Python package and uploa
 
 ✔ Package Name
 Copy code
-Topsis-Tanishak-102303398
+Topsis-Pavneet -102317070
 ✔ PyPI Link
 👉 https://pypi.org/project/Topsis-Tanishak-102303398/0.0.1/
 
@@ -128,8 +128,8 @@ Developed a browser-based data science web service
 Learned Python packaging and deployment workflow
 
 👨‍💻 Author
-Name: Tanishak
-Roll Number: 102303398
+Name: Pavneet
+Roll Number: 102317070
 
 📄 License
 This project is developed for academic purposes only.
